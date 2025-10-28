@@ -17,3 +17,5 @@ Teacher created a test app with the command:
 ```
 npx create-expo-app events -t
 ```
+
+The teacher selected the template "Blank (TypeScript)".
