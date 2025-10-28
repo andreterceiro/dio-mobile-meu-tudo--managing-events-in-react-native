@@ -10,8 +10,6 @@ Teacher said that in React Native develpment these are the 3 main things to thin
 # Test app
 
 
-# Creating the text app
-
 Teacher created a test app with the command:
 
 ```
@@ -19,3 +17,9 @@ npx create-expo-app events -t
 ```
 
 The teacher selected the template "Blank (TypeScript)".
+
+Then he run the app with the command:
+
+```
+npm run start
+```
