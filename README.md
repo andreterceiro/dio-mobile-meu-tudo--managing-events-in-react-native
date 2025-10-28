@@ -23,3 +23,5 @@ Then he run the app with the command:
 ```
 npm run start
 ```
+
+Then in the locked screen (by the previous command) he selected the option "A" (Android) to open the app in the device.
