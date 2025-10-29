@@ -36,3 +36,5 @@ Teacher instructed us to search by "react native docs" o Google or to access [ht
 In the [http://reactnative.dev](http://reactnative.dev) website, teacher clicked on the menu "Devolpement" then in the submenu "Components". Then in the left area of the website he could view a link to access the documentation of the text component.
 
 ![documentation - text component](images/documentation--text-component.png)
+
+Teacher said that the text component was only an example, the concept that he will explain could be applied to other components.
