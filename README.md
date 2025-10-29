@@ -41,4 +41,4 @@ Teacher said that the text component was only an example, the concept that he wi
 
 Events in the documentation:
 
-![events in http://reactnative.dev](images/events-in-react-native-dot-dev.png
+![events in http://reactnative.dev](images/events-in-react-native-dot-dev.png)
