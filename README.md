@@ -38,3 +38,7 @@ In the [http://reactnative.dev](http://reactnative.dev) website, teacher clicked
 ![documentation - text component](images/documentation--text-component.png)
 
 Teacher said that the text component was only an example, the concept that he will explain could be applied to other components.
+
+Events in the documentation:
+
+![events in http://reactnative.dev](images/events-in-react-native-dot-dev.png
