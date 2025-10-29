@@ -32,3 +32,5 @@ Then teacher opened the file "App.tsx".
 # Documentation
 
 Teacher instructed us to search by "react native docs" o Google or to access [http://reactnative.dev](http://reactnative.dev).
+
+In the [http://reactnative.dev](http://reactnative.dev) website, teacher clicked on the menu "Devolpement" then in the submenu "Components". Then in the left area of the website he could view a link to access the documentation of the text component.
