@@ -54,6 +54,6 @@ Or ou can use an external function handler.
 
 ![on press event on a text input - external handler](images/on-press-event-on-a-text-input--external-handler.png)
 
-If you need to pass a parameter you have to use an arrow function:
+If you need to pass a parameter to the function handler, you have to use an arrow function:
 
 ![on press event on a text input - passing parameters](images/on-press-event-on-a-text-input--passing-parameters.png)
