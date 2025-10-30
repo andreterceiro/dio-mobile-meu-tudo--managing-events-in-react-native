@@ -46,6 +46,10 @@ Events in the documentation:
 
 # OnPress event on a text input
 
-![on press event on a text input](images/on-press-event%20-on-a-text-input.png)
+![on press event on a text input - inline](images/on-press-event-on-a-text-input--inline.png)
 
 As you can see in the image, you can use an arrow function.
+
+Or ou can use an external function handler.
+
+![on press event on a text input - external handler](images/on-press-event%20-on-a-text-input--external-handler.png)
