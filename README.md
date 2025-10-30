@@ -64,4 +64,4 @@ To use a function handler from an external file:
 
 **Step 1**: first you have to create the external file and the function handler:
 
-![external file function handler](images/external-file-function-handler.png)
+![external file function handler - declaring the function](images/external-file-function-handler--declaring-the-function.png)
