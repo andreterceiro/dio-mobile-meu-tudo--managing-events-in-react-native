@@ -66,6 +66,8 @@ To use a function handler from an external file:
 
 ![external file function handler - declaring the function](images/external-file-function-handler--declaring-the-function.png)
 
+**Note:** please do not forget to export the function handler (see the image above).
+
 **Step 2:** now you have to import the external file:
 
 ![external file function handler - importing the external file](images/external-file-function-handler--importing-the-external-file.png)
