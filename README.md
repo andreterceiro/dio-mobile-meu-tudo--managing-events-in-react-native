@@ -73,3 +73,7 @@ To use a function handler from an external file:
 ![external file function handler - importing the external file](images/external-file-function-handler--importing-the-external-file.png)
 
 **Note:** pay attention that you do not need to put the extension of the file (.ts from "actions.ts") to import it.
+
+Then finnaly you can use the function handler:
+
+![external file function handler - using the function handler](images/external-file-function-handler--using-the-handler.png)
