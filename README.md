@@ -62,6 +62,6 @@ If you need to pass a parameter to the function handler, you have to use an arro
 
 To use a function handler from an external file:
 
-**Step 1**: first you have to create the external file ant the function:
+**Step 1**: first you have to create the external file and the function handler:
 
 ![external file function handler](images/external-file-function-handler.png)
