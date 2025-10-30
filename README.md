@@ -52,4 +52,4 @@ As you can see in the image, you can use an arrow function.
 
 Or ou can use an external function handler.
 
-![on press event on a text input - external handler](images/on-press-event%20-on-a-text-input--external-handler.png)
+![on press event on a text input - external handler](images/on-press-event-on-a-text-input--external-handler.png)
