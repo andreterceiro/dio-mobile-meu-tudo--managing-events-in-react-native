@@ -59,3 +59,9 @@ If you need to pass a parameter to the function handler, you have to use an arro
 ![on press event on a text input - passing parameters](images/on-press-event-on-a-text-input--passing-parameters.png)
 
 **Pay attention**: in all three cases you have to use braces ("chaves" in portuguese) on **onPress** declaration.
+
+To use a function handler from an external file:
+
+**Step 1**: first you have to create the external file ant the function:
+
+![external file function handler](images/external-file-function-handler.png)
