@@ -42,3 +42,10 @@ Teacher said that the text component was only an example, the concept that he wi
 Events in the documentation:
 
 ![events in http://reactnative.dev](images/events-in-react-native-dot-dev.png)
+
+
+# OnPress event on a text input
+
+![on press event on a text input](images/on-press-event%20-on-a-text-input.png)
+
+As you can see in the image, you can use an arrow function.
