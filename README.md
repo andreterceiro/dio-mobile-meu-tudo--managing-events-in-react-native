@@ -57,3 +57,5 @@ Or ou can use an external function handler.
 If you need to pass a parameter to the function handler, you have to use an arrow function:
 
 ![on press event on a text input - passing parameters](images/on-press-event-on-a-text-input--passing-parameters.png)
+
+**Pay attention**: in all three cases you have to use braces ("chaves" in portuguese) on **onPress** declaration.
