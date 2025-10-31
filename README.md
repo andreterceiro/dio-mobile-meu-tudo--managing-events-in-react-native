@@ -98,3 +98,8 @@ This event, as the name suggests, is dispatched on a long press. This event is d
 Please see the console of this example:
 
 ![onLongPress event example](images/longPress-event-example.png)
+
+
+# TextLayout event
+
+This event is disptched before the text be sended to the screen, teacher said that you can use it for a validation as example. This event is **not** necessarily related to a click event.
