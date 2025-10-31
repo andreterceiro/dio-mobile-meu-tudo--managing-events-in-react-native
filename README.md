@@ -84,3 +84,8 @@ Then finnaly you can use the function handler:
 The event **onPressIn** is dispatched before the event **onPress**.
 
 Teacher said that we could use this event to verify something before do any action when the user press the touchscreen.
+
+
+# PressOut event
+
+The event **onPressOut** is dispatched before the event **onPress**.
