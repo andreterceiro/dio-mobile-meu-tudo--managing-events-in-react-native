@@ -77,3 +77,8 @@ To use a function handler from an external file:
 Then finnaly you can use the function handler:
 
 ![external file function handler - using the function handler](images/external-file-function-handler--using-the-handler.png)
+
+
+# PressIn event
+
+The event **onPressIn** is dispatched befor the event **onPress**.
