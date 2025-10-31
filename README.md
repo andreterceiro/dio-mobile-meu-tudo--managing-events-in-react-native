@@ -89,3 +89,12 @@ Teacher said that we could use this event to verify something before do any acti
 # PressOut event
 
 The event **onPressOut** is dispatched before the event **onPress**.
+
+
+# LongPress event
+
+This event, as the name suggests, is dispatched on a long press. This event is dispatched **instead** the event **onPress**, but the events **onPressIn** and **onPressOut** are also dispatched.
+
+Please see the console of this example:
+
+![onLongPress event example](images/longPress-event-example.png)
